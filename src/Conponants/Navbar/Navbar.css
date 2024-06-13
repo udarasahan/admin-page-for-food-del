@@ -1,0 +1,16 @@
+.logo {
+    color: #eb8034;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+
+.profile {
+    height: 45px;
+}
